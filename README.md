@@ -1,2 +1,2 @@
 # mgs-invoice-dist
-Packaged releases for invoice-gen
+Quickly and easily generate professional invoices.
